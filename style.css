@@ -1,0 +1,199 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+#cover-link-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+
+#cover-text-align {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    height: 680px;
+    width: 1500px;
+    padding: 20px 0 0 40px;
+}
+
+.cover-text {
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+
+.donate-text2 {
+    text-align: center;
+    margin-top: 150px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.cover-text h1 {
+    font-size: 65px;
+    border: 0px;
+    height: 30px
+}
+
+.cover-text p {
+    font-size: 30px;
+    font-weight: 100;
+
+}
+
+.donate-block p {
+    background-color: #FAFAFA;
+    width: 135px;
+    height: 70px;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding-top: 55px;
+    display: inline-block;
+}
+
+.donate-block {
+    list-style-type: none;
+    font-style: 20px;
+    padding-left: 300px;
+}
+
+#donate-block-option2 {
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 1px solid #ec0b0b;
+}
+
+#input {
+    width: 700px;
+    height: 60px;
+    padding-left: 80px;
+    margin-top: 50px;
+    margin-left: 350px;
+
+}
+
+#donation {
+    margin-left: 700px;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+#block1 {
+    background-color: #EDF5F6;
+    width: 350px;
+    height: 400px;
+    text-align: left;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding-top: 55px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+
+#block2 {
+    background-color: #FFEEEE;
+    width: 350px;
+    height: 400px;
+    text-align: left;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding-top: 55px;
+}
+
+#block3 {
+    background-color: #FFF4D6;
+    width: 350px;
+    height: 400px;
+    text-align: left;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding-top: 55px;
+}
+
+section4 div {
+    display: inline-block;
+    margin-left: 30px;
+    list-style-type: none;
+    font-style: 20px;
+    padding-left: 20px;
+}
+
+#child-health {
+    width: 500px;
+    height: 400px;
+    text-align: left;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding-top: 55px;
+    margin-left: 200px;
+}
+
+#child-image {
+    height: 450px;
+    width: 500px;
+    margin-left: 120px;
+
+}
+
+section5 div {
+    display: inline-block;
+}
+
+#email {
+    width: 450px;
+    height: 60px;
+    padding-left: 0px;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+#subscription {
+
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+
+#email-subscription div {
+    display: inline-block;
+}
+
+#empty-box {
+    width: 1000px;
+    height: 200px;
+    background-color: #FFF4D6;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+footer h1 {
+    color: #FF5959;
+    font-style: italic;
+    font-size: 30px;
+    padding-top: 60px;
+}
+
+footer p {
+    color: white;
+
+}
+
+footer {
+    height: 180px;
+    width: 1530px;
+    background-color: #0B0D17;
+    text-align: center;
+}
